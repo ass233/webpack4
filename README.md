@@ -20,3 +20,5 @@ npm run dev
 
 npm run build
 
+脚手架待完善...
+欢迎各路英雄帮忙完善
