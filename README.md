@@ -9,6 +9,8 @@ git clone https://github.com/ass233/webpack4.git
 
 cd webpack4
 
+git checkout multi_page
+
 npm install
 
 # 运行
