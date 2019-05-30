@@ -4,12 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
     "build": "webpack --mode production",
     "dev": "webpack-dev-server --open --mode development"
-=======
-    "test": "echo \"Error: no test specified\" && exit 1"
->>>>>>> fdd59e1da6c80f368fd2a20a7be83bc14be2d79b
   },
   "repository": {
     "type": "git",
@@ -23,7 +19,6 @@
   },
   "homepage": "https://github.com/ass233/webpack4#readme",
   "devDependencies": {
-<<<<<<< HEAD
     "clean-webpack-plugin": "^2.0.2",
     "css-loader": "^2.1.1",
     "html-webpack-plugin": "^3.2.0",
@@ -35,9 +30,5 @@
   "dependencies": {
     "expose-loader": "^0.7.5",
     "jquery": "^3.4.1"
-=======
-    "webpack": "^4.32.2",
-    "webpack-cli": "^3.3.2"
->>>>>>> fdd59e1da6c80f368fd2a20a7be83bc14be2d79b
   }
 }
