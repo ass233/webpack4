@@ -1,2 +1,2 @@
 $('#app').html('ass')
-require('./index.css')
+//require('./index.css')
